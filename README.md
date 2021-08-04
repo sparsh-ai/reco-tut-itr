@@ -1,1 +1,1 @@
-# reco-tutorial-base
+# Indian Travel Recommender
